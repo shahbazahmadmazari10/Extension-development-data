@@ -1,0 +1,12 @@
+    document.querySelector('[aria-label="Column body"] [aria-label*="compose"]').click()
+
+    document.querySelector('[role="dialog"] [role="textbox"]')
+
+document.querySelector('input[type="file"]')
+
+document.querySelectorAll('[role="dialog"] [role="button"]').forEach(e=>{
+    if(e.innerText=='Post'){
+        console.log(e)
+        e.click()
+    }
+})

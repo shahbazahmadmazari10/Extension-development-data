@@ -1,0 +1,32 @@
+{
+    "name": "Threads Posts Uploader",
+    "description": "Automatically uploads posts on https://www.threads.net/* Website",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author":"adeelahmad848",
+    "background": {
+        "service_worker": "/background.js"
+    },
+  "icons": {
+    "128": "./icon.png"
+  },
+    "permissions": ["storage", "tabs","activeTab"],
+    "content_scripts": [
+        {
+            "matches": ["https://www.facebook.com/*"],
+            "js": ["/xlsx.js","./content.js","/automationFunctions.js"],
+            "run_at": "document_end"
+        }
+    ],
+    "host_permissions": ["<all_urls>"],
+    "action": {
+        "default_popup": "/popup.html"
+    },
+
+    "web_accessible_resources": [{
+        "matches": ["https://www.facebook.com/*"],
+        "resources": ["videos/*","videosData.xlsx"]
+    }
+
+    ]
+  }
