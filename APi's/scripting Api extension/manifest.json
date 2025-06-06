@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Context Menu Example",
+    "version": "1.0",
+    "description": "Adds a custom item to the right-click menu.",
+    "permissions": ["tabs","activeTab","scripting"],
+   "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
