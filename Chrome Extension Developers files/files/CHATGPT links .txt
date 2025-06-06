@@ -1,0 +1,30 @@
+[13/01/2025 10:25 pm] Adeel Ahmad Web Developer: https://www.w3schools.com/cssref/css_selectors.php
+[13/01/2025 10:25 pm] Adeel Ahmad Web Developer: https://www.w3schools.com/cssref/css_ref_combinators.php
+[13/01/2025 10:25 pm] Adeel Ahmad Web Developer: https://scrapfly.io/blog/css-selector-cheatsheet/
+[13/01/2025 10:25 pm] Adeel Ahmad Web Developer: https://appletree.or.kr/quick_reference_cards/CSS/CSS%20selectors%20cheatsheet.pdf
+[13/01/2025 10:25 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/get-started#tutorials
+[20/01/2025 10:01 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world
+[21/01/2025 10:13 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/reference/manifest#minimal-manifest
+[23/01/2025 10:52 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts
+[23/01/2025 10:52 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/reference/api/extensionTypes#type-RunAt
+[23/01/2025 10:52 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/develop/concepts/match-patterns
+[23/01/2025 11:01 pm] Adeel Ahmad Web Developer: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Match_patterns
+[25/01/2025 9:11 pm] Adeel Ahmad Web Developer: https://appletree.or.kr/quick_reference_cards/CSS/CSS%20selectors%20cheatsheet.pdf
+[31/01/2025 10:36 pm] Adeel Ahmad Web Developer: https://chatgpt.com/share/679d09fc-f244-800b-9732-18d082cf6d2a
+
+chrome.tabs all method
+[31/01/2025 10:37 pm] Adeel Ahmad Web Developer: https://chatgpt.com/share/679d0a39-ddfc-8008-8f3b-fce4ffe8ccca
+[31/01/2025 11:12 pm] Adeel Ahmad Web Developer: https://chatgpt.com/share/679d1285-66ac-800b-9895-9bf22fd1e902
+
+chrome.tabs Remaining methods :)
+[06/02/2025 9:48 pm] Adeel Ahmad Web Developer: https://www.w3schools.com/jsref/prop_node_nodetype.asp#:~:text=If%20the%20node%20is%20an,nodeType%20property%20will%20return%208.
+[09/02/2025 4:49 pm] Adeel Ahmad Web Developer: https://tesseract.projectnaptha.com/
+[11/02/2025 9:57 pm] Adeel Ahmad Web Developer: https://meet.google.com/sqh-judz-zuy
+[11/02/2025 10:35 pm] Adeel Ahmad Web Developer: https://chatgpt.com/share/67ab89aa-7f60-800b-a9b3-d54c3425c23e
+[11/02/2025 10:35 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/reference/api/contextMenus?hl=en
+[12/02/2025 10:00 pm] Adeel Ahmad Web Developer: https://chatgpt.com/c/67acbfb4-c118-800b-b3b1-3e99cbcc0806
+[12/02/2025 10:00 pm] Adeel Ahmad Web Developer: Chrome.alarms
+[12/02/2025 10:04 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/reference/api/alarms
+[13/02/2025 6:45 pm] Adeel Ahmad Web Developer: https://chatgpt.com/share/67adf6c0-c72c-800b-ac2f-38375d25d061
+[24/02/2025 10:44 pm] Adeel Ahmad Web Developer: https://developer.chrome.com/docs/extensions/reference/api/commands
+[25/02/2025 11:49 pm] Adeel Ahmad Web Developer: https://chatgpt.com/share/67be10a5-68a8-800b-9d02-b12502961df2
